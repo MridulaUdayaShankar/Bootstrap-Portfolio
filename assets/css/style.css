@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+body,html{
+    background-color: #dddddd;
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/swirl_pattern.png");
+
+}
+.container{
+    margin:o auto;
+    padding:10px;
+}
+.row{
+    padding:10px;
+    margin-top:40px;
+}
+.fixed-bottom{
+    text-align: center;
+    background-color: #666;
+    padding: 20px;
+}
+@media (max-width: 640px) { 
+    
+}
+
+
+@media (max-width: 768px) { 
+
+}
+
+ 
+@media (max-width: 980px) { 
+
+ }
+
